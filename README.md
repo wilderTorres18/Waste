@@ -1,6 +1,6 @@
 # Waste
-Waste calculate - Publiarte
+Waste calculate - Publiarte by wilder Torres - practice Innovosoft
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Expanding Cards](https://234123123.000webhostapp.com/)                                                                     | [Live Demo](https://234123123.000webhostapp.com/)               |
+| 01  | [Cotizatión](https://234123123.000webhostapp.com/)                                                                     | [Live Demo](https://234123123.000webhostapp.com/)               |
